@@ -6,7 +6,7 @@ My communications background helps me explain technical work and collaborate acr
 
 ## C++ and systems projects
 
-- **[C++ Telemetry Monitor](https://github.com/Spencer695/cpp-telemetry-monitor)** — An AI-assisted C++17 learning project with real TCP sockets, separate receiving and processing threads, a bounded queue, validated simulated readings, CMake and Linux CI.
+- **[C++ Telemetry Monitor](https://github.com/Spencer695/cpp-telemetry-monitor)** — An AI-assisted C++17 learning project with real TCP sockets, separate receiving and processing threads, a bounded queue, an optional Qt 6 Widgets dashboard, validated simulated readings, CMake and Linux CI.
 - **[IEEE 754 Floating Point Converter](https://github.com/Spencer695/IEEE-754-Assignment)** — Reconstructs single-precision floating-point values from sign, exponent and mantissa fields. Includes explicit boundary cases, deterministic bit-pattern tests, CMake and Linux CI.
 - **[RPN Calculator with Bitwise Operations](https://github.com/Spencer695/RPN-Bitwise-Calculator)** — A stack-based 16-bit calculator with addition, bitwise operations, validated CSV fixtures, CMake and Linux CI.
 
